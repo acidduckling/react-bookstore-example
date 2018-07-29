@@ -1,4 +1,4 @@
-# ReduxSimpleStarter
+# React Redux Bookstore Basic Example
 
 This is a project for Stephen Grider's Udemy React/Redux course: [React and Redux](https://www.udemy.com/react-redux/)?
 
